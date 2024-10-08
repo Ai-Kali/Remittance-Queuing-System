@@ -200,11 +200,11 @@ Remittance-Queuing-System/
 <h2 id="screenshots">Screenshots</h2>
 
 <h3>Server Interface</h3>
-<p><img src="./res/Server Interface.png" alt="Server Interface" width="600"></p>
+<p><img src="./res/Server Interface.png" alt="Server Interface" width="400"></p>
 <p>The server displays current tickets, tellers, exchange rates, and custom messages.</p>
 
 <h3>Client Interface</h3>
-<p><img src="./res/Client Tnterface.png" alt="Client Interface" width="600"></p>
+<p><img src="./res/Client Interface.png" alt="Client Interface" width="400"></p>
 <p>Tellers use the client interface to manage queues and perform operations.</p>
 
 <h2 id="troubleshooting">Troubleshooting</h2>
