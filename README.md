@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Remittance Queuing System - README</title>
 </head>
 <body>
 
@@ -205,7 +204,7 @@ Remittance-Queuing-System/
 <p>The server displays current tickets, tellers, exchange rates, and custom messages.</p>
 
 <h3>Client Interface</h3>
-<p><img src="./res/Client interface.png" alt="Client Interface" width="600"></p>
+<p><img src="./res/Client Tnterface.png" alt="Client Interface" width="600"></p>
 <p>Tellers use the client interface to manage queues and perform operations.</p>
 
 <h2 id="troubleshooting">Troubleshooting</h2>
