@@ -1,0 +1,2815 @@
+2024-10-09 12:11:36,417 - INFO - Server started and listening for connections...
+2024-10-09 12:11:53,543 - INFO - Received data: request_exchange_rate:0request_system_ticket:0
+request_exchange_rate:0
+2024-10-09 12:11:58,647 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:11:58,647 - INFO - Received data: request_exchange_rate:0
+2024-10-09 12:12:03,221 - INFO - Received data: status_request:2
+
+2024-10-09 12:12:03,647 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:03,647 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:04,808 - INFO - Received data: next:2,A
+2024-10-09 12:12:04,808 - INFO - Queue sound played successfully.
+2024-10-09 12:12:08,648 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:08,648 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:13,648 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:13,648 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:18,649 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:18,649 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:23,649 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:23,649 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:28,650 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:28,650 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:33,650 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:33,650 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:38,650 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:38,650 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:43,651 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:43,651 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:48,651 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:48,651 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:53,652 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:53,652 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:12:58,652 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:12:58,652 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:03,653 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:03,653 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:08,653 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:08,653 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:13,653 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:13,653 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:18,654 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:18,654 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:23,654 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:23,654 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:28,654 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:28,655 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:33,655 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:33,655 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:38,655 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:38,655 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:43,656 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:43,656 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:48,656 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:48,656 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:53,656 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:53,656 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:13:58,657 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:13:58,657 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:03,657 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:03,657 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:08,658 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:08,658 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:13,658 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:13,658 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:18,658 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:18,658 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:23,659 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:23,659 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:28,660 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:28,660 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:33,660 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:33,660 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:38,661 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:38,661 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:43,661 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:43,661 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:48,662 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:48,662 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:53,663 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:53,663 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:14:58,663 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:14:58,663 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:03,663 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:03,663 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:08,664 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:08,664 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:13,664 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:13,664 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:18,664 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:18,664 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:23,665 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:23,665 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:28,665 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:28,665 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:33,666 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:33,666 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:38,666 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:38,666 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:43,667 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:43,667 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:48,667 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:48,667 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:53,668 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:53,668 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:15:58,668 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:15:58,668 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:03,669 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:03,669 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:08,669 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:08,669 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:13,669 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:13,669 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:18,670 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:18,670 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:23,670 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:23,670 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:28,670 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:28,670 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:33,671 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:33,671 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:38,672 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:38,672 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:43,672 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:43,672 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:48,672 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:48,672 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:53,672 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:53,672 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:16:58,673 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:16:58,673 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:03,673 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:03,673 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:08,673 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:08,673 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:13,674 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:13,674 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:18,674 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:18,674 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:23,674 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:23,674 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:28,675 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:28,675 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:33,675 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:33,675 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:38,675 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:38,675 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:43,676 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:43,676 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:48,676 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:48,676 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:53,677 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:53,677 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:17:58,677 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:17:58,677 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:03,677 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:03,677 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:08,678 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:08,678 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:13,678 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:13,678 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:18,679 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:18,679 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:23,679 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:23,679 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:28,680 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:28,680 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:33,680 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:33,680 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:38,681 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:38,681 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:43,681 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:43,681 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:48,681 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:48,681 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:53,682 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:53,682 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:18:58,682 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:18:58,682 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:03,683 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:03,683 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:08,683 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:08,683 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:13,683 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:13,683 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:18,684 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:18,684 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:23,684 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:23,684 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:28,685 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:28,685 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:33,685 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:33,685 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:38,685 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:38,685 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:43,686 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:43,686 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:48,687 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:48,687 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:53,687 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:53,687 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:19:58,687 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:19:58,687 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:03,687 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:03,687 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:08,688 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:08,688 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:13,688 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:13,688 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:18,689 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:18,689 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:23,689 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:23,689 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:28,689 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:28,689 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:33,690 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:33,690 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:38,690 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:38,690 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:43,691 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:43,691 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:48,691 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:48,691 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:53,692 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:53,692 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:20:58,692 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:20:58,692 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:03,692 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:03,692 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:08,693 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:08,693 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:13,694 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:13,694 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:18,694 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:18,694 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:23,694 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:23,694 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:28,695 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:28,695 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:33,695 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:33,695 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:38,695 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:38,695 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:43,696 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:43,696 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:48,696 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:48,696 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:53,697 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:53,697 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:21:58,697 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:21:58,697 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:03,697 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:03,697 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:08,698 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:08,698 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:13,698 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:13,698 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:18,699 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:18,699 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:23,699 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:23,699 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:28,700 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:28,700 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:33,700 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:33,700 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:38,700 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:38,700 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:43,701 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:43,701 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:48,701 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:48,701 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:53,702 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:53,702 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:22:58,702 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:22:58,702 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:03,702 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:03,702 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:08,703 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:08,703 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:13,704 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:13,704 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:18,704 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:18,704 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:23,704 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:23,704 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:28,705 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:28,705 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:33,705 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:33,705 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:38,706 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:38,706 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:43,706 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:43,706 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:48,706 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:48,706 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:53,707 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:53,707 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:23:58,707 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:23:58,707 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:03,708 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:03,708 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:08,708 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:08,708 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:13,709 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:13,709 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:18,709 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:18,709 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:23,710 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:23,710 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:28,710 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:28,710 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:33,710 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:33,710 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:38,711 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:38,711 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:43,711 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:43,711 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:48,712 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:48,712 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:53,712 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:53,712 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:24:58,712 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:24:58,712 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:03,713 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:03,713 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:08,714 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:08,714 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:13,714 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:13,714 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:18,714 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:18,714 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:23,715 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:23,715 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:28,715 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:28,715 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:33,715 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:33,715 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:38,716 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:38,716 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:43,716 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:43,716 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:48,717 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:48,717 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:53,717 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:53,717 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:25:58,718 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:25:58,718 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:03,718 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:03,718 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:08,719 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:08,719 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:13,719 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:13,719 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:18,719 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:18,719 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:23,720 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:23,720 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:28,720 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:28,720 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:33,721 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:33,721 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:38,721 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:38,721 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:43,722 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:43,722 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:48,722 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:48,722 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:53,722 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:53,722 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:26:58,723 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:26:58,723 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:03,724 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:03,724 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:08,724 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:08,724 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:13,724 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:13,724 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:18,725 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:18,725 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:23,725 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:23,725 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:28,726 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:28,726 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:33,726 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:33,726 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:38,727 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:38,727 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:43,727 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:43,727 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:48,728 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:48,728 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:53,728 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:53,728 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:27:58,729 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:27:58,729 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:03,729 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:03,729 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:08,729 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:08,729 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:13,730 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:13,730 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:18,730 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:18,730 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:23,731 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:23,731 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:28,731 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:28,731 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:33,731 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:33,731 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:38,732 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:38,732 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:43,732 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:43,732 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:48,733 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:48,733 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:53,733 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:53,733 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:28:58,733 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:28:58,733 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:03,734 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:03,734 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:08,734 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:08,734 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:13,735 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:13,735 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:18,735 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:18,735 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:23,735 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:23,735 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:28,736 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:28,736 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:33,736 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:33,736 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:38,737 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:38,737 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:43,737 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:43,737 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:48,737 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:48,737 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:53,737 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:53,737 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:29:58,738 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:29:58,738 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:03,738 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:03,738 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:08,739 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:08,739 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:13,739 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:13,739 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:18,740 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:18,740 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:23,740 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:23,740 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:28,741 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:28,741 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:33,741 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:33,741 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:38,742 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:38,742 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:43,742 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:43,742 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:48,742 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:48,742 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:53,742 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:53,742 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:30:58,743 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:30:58,743 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:03,743 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:03,743 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:08,743 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:08,743 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:13,744 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:13,744 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:18,744 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:18,744 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:23,745 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:23,745 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:28,745 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:28,745 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:33,745 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:33,745 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:38,746 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:38,746 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:43,747 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:43,747 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:48,747 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:48,747 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:53,748 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:53,748 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:31:58,748 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:31:58,748 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:03,748 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:03,748 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:08,749 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:08,749 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:13,749 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:13,749 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:18,750 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:18,750 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:23,750 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:23,750 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:28,751 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:28,751 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:33,751 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:33,751 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:38,752 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:38,752 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:43,752 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:43,752 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:48,753 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:48,753 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:53,753 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:53,753 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:32:58,753 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:32:58,753 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:03,754 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:03,754 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:08,754 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:08,754 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:13,754 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:13,754 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:18,755 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:18,755 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:23,755 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:23,755 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:28,756 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:28,756 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:33,756 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:33,756 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:38,757 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:38,757 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:43,757 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:43,757 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:48,758 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:48,758 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:53,758 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:53,758 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:33:58,759 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:33:58,759 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:03,759 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:03,759 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:08,759 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:08,759 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:13,760 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:13,760 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:18,760 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:18,760 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:23,760 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:23,760 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:28,761 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:28,761 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:33,761 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:33,761 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:38,762 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:38,762 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:43,762 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:43,762 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:48,763 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:48,763 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:53,763 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:53,763 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:34:58,764 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:34:58,764 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:03,764 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:03,764 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:08,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:08,765 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:13,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:13,765 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:18,766 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:18,766 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:23,766 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:23,766 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:28,767 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:28,767 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:33,767 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:33,767 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:38,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:38,768 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:43,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:43,768 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:48,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:48,768 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:53,769 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:53,769 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:35:58,769 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:35:58,769 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:03,769 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:03,769 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:08,770 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:08,770 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:13,770 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:13,770 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:18,770 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:18,770 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:23,771 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:23,771 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:28,771 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:28,771 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:33,772 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:33,772 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:38,772 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:38,772 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:43,772 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:43,772 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:48,773 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:48,773 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:53,773 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:53,773 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:36:58,774 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:36:58,774 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:03,774 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:03,774 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:08,775 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:08,775 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:13,775 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:13,775 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:18,775 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:18,775 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:23,776 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:23,776 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:28,776 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:28,776 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:33,777 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:33,777 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:38,777 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:38,777 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:43,778 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:43,778 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:48,778 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:48,778 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:53,779 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:53,779 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:37:58,779 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:37:58,779 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:03,779 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:03,779 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:08,780 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:08,780 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:13,780 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:13,780 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:18,780 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:18,780 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:23,781 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:23,781 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:28,781 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:28,781 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:33,781 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:33,781 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:38,782 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:38,782 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:43,782 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:43,782 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:48,783 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:48,783 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:53,783 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:53,783 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:38:58,784 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:38:58,784 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:03,784 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:03,784 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:08,784 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:08,784 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:13,785 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:13,785 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:18,785 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:18,785 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:23,786 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:23,786 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:28,787 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:28,787 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:33,787 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:33,787 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:38,787 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:38,787 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:43,788 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:43,788 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:48,788 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:48,788 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:53,788 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:53,788 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:39:58,789 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:39:58,789 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:03,789 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:03,789 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:08,790 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:08,790 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:13,791 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:13,791 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:18,791 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:18,791 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:23,791 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:23,791 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:28,792 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:28,792 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:33,792 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:33,792 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:38,792 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:38,792 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:43,793 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:43,793 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:48,793 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:48,793 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:53,793 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:53,793 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:40:58,794 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:40:58,794 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:03,794 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:03,794 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:08,795 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:08,795 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:13,795 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:13,795 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:18,796 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:18,796 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:23,796 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:23,796 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:28,797 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:28,797 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:33,797 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:33,797 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:38,798 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:38,798 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:43,798 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:43,798 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:48,798 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:48,798 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:53,799 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:53,799 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:41:58,799 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:41:58,799 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:03,799 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:03,799 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:08,800 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:08,800 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:13,800 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:13,800 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:18,801 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:18,801 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:23,801 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:23,801 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:28,802 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:28,802 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:33,802 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:33,802 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:38,803 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:38,803 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:43,803 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:43,803 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:48,803 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:48,803 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:53,804 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:53,804 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:42:58,804 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:42:58,804 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:03,805 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:03,805 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:08,805 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:08,805 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:13,806 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:13,806 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:18,806 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:18,806 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:23,807 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:23,807 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:28,807 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:28,807 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:33,808 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:33,808 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:38,808 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:38,808 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:43,808 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:43,808 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:48,809 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:48,809 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:53,809 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:53,809 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:43:58,810 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:43:58,810 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:03,810 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:03,810 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:08,811 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:08,811 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:13,811 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:13,811 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:18,811 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:18,811 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:23,812 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:23,812 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:28,812 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:28,812 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:33,812 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:33,812 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:38,813 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:38,813 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:43,813 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:43,813 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:48,813 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:48,813 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:53,813 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:53,813 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:44:58,814 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:44:58,814 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:03,814 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:03,814 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:08,814 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:08,814 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:13,815 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:13,815 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:18,815 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:18,815 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:23,815 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:23,815 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:28,816 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:28,816 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:33,816 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:33,816 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:38,817 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:38,817 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:43,817 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:43,817 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:48,817 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:48,817 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:53,818 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:53,818 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:45:58,818 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:45:58,818 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:03,819 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:03,819 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:08,820 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:08,820 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:13,820 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:13,820 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:18,821 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:18,821 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:23,821 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:23,821 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:28,821 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:28,821 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:33,822 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:33,822 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:38,823 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:38,823 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:43,823 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:43,823 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:48,823 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:48,823 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:53,824 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:53,824 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:46:58,825 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:46:58,825 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:03,825 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:03,825 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:08,826 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:08,826 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:13,826 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:13,826 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:18,826 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:18,826 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:23,826 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:23,826 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:28,827 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:28,827 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:33,827 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:33,827 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:38,827 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:38,827 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:43,828 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:43,828 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:48,828 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:48,828 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:53,829 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:53,829 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:47:58,829 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:47:58,829 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:03,830 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:03,830 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:08,830 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:08,830 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:13,830 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:13,830 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:18,831 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:18,831 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:23,831 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:23,831 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:28,832 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:28,832 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:33,832 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:33,832 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:38,833 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:38,833 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:43,833 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:43,833 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:48,834 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:48,834 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:53,834 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:53,834 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:48:58,834 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:48:58,834 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:03,834 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:03,834 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:08,835 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:08,835 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:13,835 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:13,835 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:18,836 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:18,836 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:23,836 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:23,836 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:28,837 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:28,837 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:33,837 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:33,837 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:38,837 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:38,837 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:43,838 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:43,838 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:48,838 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:48,838 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:53,839 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:53,839 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:49:58,839 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:49:58,839 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:03,839 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:03,839 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:08,840 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:08,840 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:13,841 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:13,841 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:18,841 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:18,841 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:23,842 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:23,842 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:28,842 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:28,842 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:33,843 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:33,843 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:38,843 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:38,843 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:43,843 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:43,843 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:48,844 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:48,844 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:53,845 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:53,845 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:50:58,845 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:50:58,845 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:03,845 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:03,845 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:08,846 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:08,846 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:13,846 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:13,846 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:18,847 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:18,847 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:23,847 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:23,847 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:28,848 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:28,848 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:33,848 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:33,848 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:38,849 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:38,849 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:43,849 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:43,849 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:48,849 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:48,849 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:53,850 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:53,850 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:51:58,850 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:51:58,850 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:03,851 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:03,851 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:08,851 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:08,851 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:13,852 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:13,852 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:18,852 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:18,852 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:23,852 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:23,852 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:28,852 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:28,852 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:33,853 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:33,853 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:38,853 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:38,853 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:43,854 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:43,854 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:48,854 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:48,854 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:53,855 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:53,855 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:52:58,855 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:52:58,855 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:03,855 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:03,855 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:08,856 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:08,856 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:13,856 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:13,856 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:18,857 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:18,857 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:23,857 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:23,857 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:28,857 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:28,857 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:33,857 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:33,857 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:38,857 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:38,857 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:43,858 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:43,858 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:48,858 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:48,858 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:53,859 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:53,859 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:53:58,859 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:53:58,859 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:03,859 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:03,859 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:08,860 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:08,860 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:13,860 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:13,860 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:18,861 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:18,861 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:23,861 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:23,861 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:28,862 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:28,862 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:33,862 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:33,862 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:38,862 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:38,862 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:43,863 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:43,863 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:48,863 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:48,863 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:53,864 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:53,864 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:54:58,864 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:54:58,864 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:03,865 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:03,865 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:08,865 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:08,865 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:13,865 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:13,865 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:18,866 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:18,866 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:23,867 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:23,867 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:28,867 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:28,867 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:33,868 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:33,868 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:38,868 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:38,868 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:43,869 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:43,869 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:48,869 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:48,869 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:53,869 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:53,869 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:55:58,870 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:55:58,870 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:03,870 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:03,870 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:08,871 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:08,871 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:13,871 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:13,871 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:18,872 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:18,872 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:23,872 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:23,872 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:28,873 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:28,873 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:33,873 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:33,873 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:38,874 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:38,874 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:43,874 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:43,874 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:48,875 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:48,875 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:53,875 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:53,875 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:56:58,875 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:56:58,875 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:03,876 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:03,876 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:08,876 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:08,876 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:13,877 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:13,877 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:18,877 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:18,877 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:23,877 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:23,877 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:28,878 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:28,878 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:33,878 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:33,878 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:38,879 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:38,879 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:43,879 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:43,879 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:48,879 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:48,879 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:53,880 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:53,880 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:57:58,881 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:57:58,881 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:03,881 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:03,881 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:08,881 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:08,881 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:13,882 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:13,882 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:18,882 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:18,882 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:23,882 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:23,882 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:28,883 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:28,883 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:33,883 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:33,883 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:38,884 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:38,884 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:43,884 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:43,884 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:48,884 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:48,884 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:53,884 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:53,884 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:58:58,885 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:58:58,885 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:03,885 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:03,885 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:08,885 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:08,885 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:13,886 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:13,886 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:18,886 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:18,886 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:23,887 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:23,887 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:28,888 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:28,888 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:33,888 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:33,888 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:38,888 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:38,888 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:43,888 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:43,888 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:48,889 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:48,889 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:53,889 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:53,889 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 12:59:58,889 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 12:59:58,889 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:03,890 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:03,890 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:08,890 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:08,890 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:13,891 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:13,891 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:18,891 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:18,891 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:23,891 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:23,891 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:28,891 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:28,891 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:33,892 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:33,892 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:38,892 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:38,892 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:43,893 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:43,893 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:48,893 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:48,893 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:53,894 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:53,894 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:00:58,894 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:00:58,894 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:03,894 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:03,894 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:08,895 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:08,895 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:13,896 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:13,896 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:18,896 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:18,896 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:23,897 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:23,897 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:28,897 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:28,897 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:33,898 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:33,898 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:38,898 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:38,898 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:43,898 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:43,898 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:48,898 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:48,898 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:53,898 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:53,898 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:01:58,899 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:01:58,899 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:03,899 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:03,899 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:08,900 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:08,900 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:13,900 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:13,900 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:18,900 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:18,900 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:23,901 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:23,901 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:28,901 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:28,901 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:33,901 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:33,901 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:38,902 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:38,902 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:43,902 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:43,902 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:48,903 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:48,903 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:53,903 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:53,903 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:02:58,903 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:02:58,903 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:03,904 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:03,904 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:08,904 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:08,904 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:13,904 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:13,904 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:18,905 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:18,905 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:23,905 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:23,905 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:28,906 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:28,906 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:33,906 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:33,906 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:38,906 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:38,906 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:43,907 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:43,907 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:48,908 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:48,908 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:53,908 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:53,908 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:03:58,908 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:03:58,908 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:03,908 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:03,908 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:08,909 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:08,909 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:13,909 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:13,909 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:18,910 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:18,910 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:23,911 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:23,911 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:28,911 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:28,911 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:33,911 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:33,911 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:38,912 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:38,912 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:43,912 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:43,912 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:48,912 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:48,912 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:53,913 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:53,913 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:04:58,913 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:04:58,913 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:03,913 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:03,913 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:08,914 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:08,914 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:13,914 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:13,914 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:18,915 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:18,915 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:23,915 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:23,915 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-09 13:05:28,915 - INFO - Received data: request_system_ticket:0
+
+2024-10-09 13:05:28,915 - INFO - Received data: request_exchange_rate:0status_request:2
+
+2024-10-12 14:47:35,425 - INFO - Server started and listening for connections...
+2024-10-12 14:49:19,479 - INFO - Server started and listening for connections...
+2024-10-12 14:49:37,482 - INFO - Server started and listening for connections...
+2024-10-14 00:20:47,441 - INFO - Server started and listening for connections...
+2024-10-14 00:21:21,623 - INFO - Server started and listening for connections...
+2024-10-14 00:21:30,420 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:30,420 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:30,420 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:35,534 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:35,534 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:40,535 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:40,535 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:45,535 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:45,535 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:50,536 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:50,536 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:21:55,536 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:21:55,536 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:22:00,537 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:00,537 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:22:05,537 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:05,537 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:22:08,424 - INFO - Received data: status_request:3
+
+2024-10-14 00:22:08,676 - INFO - Received data: next:3,A
+2024-10-14 00:22:08,676 - INFO - Queue sound played successfully.
+2024-10-14 00:22:10,537 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:10,537 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:10,933 - INFO - Received data: next:3,A
+2024-10-14 00:22:10,933 - INFO - Queue sound played successfully.
+2024-10-14 00:22:15,538 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:15,538 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:20,538 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:20,538 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:21,698 - INFO - Received data: next:3,A
+2024-10-14 00:22:21,698 - INFO - Queue sound played successfully.
+2024-10-14 00:22:25,539 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:25,539 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:30,539 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:30,539 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:32,871 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:32,875 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:34,522 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:34,522 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:35,290 - INFO - Received data: stop_audio
+2024-10-14 00:22:35,290 - INFO - Audio stopped
+2024-10-14 00:22:35,539 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:35,539 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:22:35,539 - INFO - Received data: status_request:3
+
+2024-10-14 00:22:40,540 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:40,540 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:45,541 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:45,541 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:48,781 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/congratulations.mp3
+2024-10-14 00:22:48,783 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/congratulations.mp3
+2024-10-14 00:22:50,541 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:50,541 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:54,441 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/congratulations.mp3
+2024-10-14 00:22:54,441 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/congratulations.mp3
+2024-10-14 00:22:55,541 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:22:55,541 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:22:55,757 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:55,757 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/clapping.mp3
+2024-10-14 00:22:57,264 - INFO - Received data: stop_audio
+2024-10-14 00:22:57,264 - INFO - Audio stopped
+2024-10-14 00:23:00,542 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:00,542 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:23:00,543 - INFO - Received data: status_request:3
+
+2024-10-14 00:23:05,543 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:05,543 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:06,340 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/maligayang-bati.mp3
+2024-10-14 00:23:06,343 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/maligayang-bati.mp3
+2024-10-14 00:23:10,544 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:10,544 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:15,545 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:15,545 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:17,850 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/buon-compleanno.mp3
+2024-10-14 00:23:17,853 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/buon-compleanno.mp3
+2024-10-14 00:23:20,545 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:20,545 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:23,349 - INFO - Received data: play_audio:C:\GitHub Projects\Remittance-Queuing-System\res/sounds/HBD Song.mp3
+2024-10-14 00:23:23,349 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/HBD Song.mp3
+2024-10-14 00:23:25,546 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:25,546 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:27,487 - INFO - Received data: stop_audio
+2024-10-14 00:23:27,487 - INFO - Audio stopped
+2024-10-14 00:23:30,546 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:30,546 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:23:30,547 - INFO - Received data: status_request:3
+
+2024-10-14 00:23:35,548 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:35,548 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:39,631 - INFO - Received data: custom_message:5:sample
+2024-10-14 00:23:39,633 - INFO - Displaying custom message: sample for 5 seconds
+2024-10-14 00:23:39,633 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/announcement.mp3
+2024-10-14 00:23:40,548 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:40,548 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:45,549 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:23:45,549 - INFO - Received data: request_exchange_rate:0status_request:3
+
+2024-10-14 00:23:47,176 - ERROR - Connection reset by client.
+2024-10-14 00:23:47,176 - INFO - Client disconnected and socket closed.
+2024-10-14 00:25:56,644 - INFO - Server started and listening for connections...
+2024-10-14 00:26:03,331 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:03,331 - INFO - Received data: request_system_ticket:0
+request_exchange_rate:0
+2024-10-14 00:26:08,436 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:08,436 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:09,108 - INFO - Received data: custom_message:3:sasd
+2024-10-14 00:26:09,108 - INFO - Displaying custom message: sasd for 3 seconds
+2024-10-14 00:26:09,108 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/announcement.mp3
+2024-10-14 00:26:13,436 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:13,436 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:18,437 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:18,437 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:23,437 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:23,437 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:28,438 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:28,438 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:33,438 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:33,438 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:36,811 - INFO - Received data: custom_message:10:sample
+2024-10-14 00:26:36,811 - INFO - Displaying custom message: sample for 10 seconds
+2024-10-14 00:26:36,811 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/announcement.mp3
+2024-10-14 00:26:38,439 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:38,439 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:43,439 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:43,439 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:48,439 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:48,439 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:53,440 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:53,440 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:26:58,440 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:26:58,440 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:05,509 - INFO - Server started and listening for connections...
+2024-10-14 00:29:09,655 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:09,655 - INFO - Received data: request_system_ticket:0
+request_exchange_rate:0
+2024-10-14 00:29:14,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:14,765 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:19,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:19,765 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:24,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:24,765 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:29,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:29,765 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:30,499 - INFO - Received data: custom_message:5:sample
+2024-10-14 00:29:30,500 - INFO - Displaying custom message: sample for 5 seconds
+2024-10-14 00:29:30,500 - INFO - Playing audio: C:\GitHub Projects\Remittance-Queuing-System\res/sounds/announcement.mp3
+2024-10-14 00:29:34,765 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:34,765 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:39,766 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:39,766 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:44,766 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:44,766 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:49,766 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:49,766 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:54,767 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:54,767 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:29:59,767 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:29:59,767 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:30:04,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:30:04,768 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:30:09,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:30:09,768 - INFO - Received data: request_exchange_rate:0
+2024-10-14 00:30:14,768 - INFO - Received data: request_system_ticket:0
+
+2024-10-14 00:30:14,768 - INFO - Received data: request_exchange_rate:0

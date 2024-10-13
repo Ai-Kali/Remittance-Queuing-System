@@ -462,35 +462,37 @@ class ServerInterface(tk.Tk):
             logging.info(f"Playing audio: {audio_path}")
         except Exception as e:
             logging.error(f"Error playing audio {audio_path}: {e}")
-
     def display_custom_message(self, message_text, duration):
         logging.info(f"Displaying custom message: {message_text} for {duration} seconds")
         custom_window = tk.Toplevel(self)
         custom_window.overrideredirect(True)
         
-        server_x, server_y = self.winfo_x(), self.winfo_y()
-        server_width, server_height = self.winfo_width(), self.winfo_height()
+        # Get the screen width and height
+        screen_width = self.winfo_screenwidth()
+        screen_height = self.winfo_screenheight()
         
-        custom_window.geometry(f"{server_width}x{server_height}+{server_x}+{server_y}")
+        # Set the window to full screen
+        custom_window.geometry(f"{screen_width}x{screen_height}+0+0")
         
         bg_color, text_color = 'white', '#2e3192'
         custom_window.configure(bg=bg_color)
 
         message_label = tk.Label(custom_window, text=message_text, fg=text_color, bg=bg_color, 
-                                 wraplength=server_width - 40)
+                                 wraplength=screen_width - 40)
         message_label.pack(expand=True)
 
         font_size = 100
         while font_size > 10:
             message_label.config(font=("Arial", font_size, "bold"))
             custom_window.update_idletasks()
-            if message_label.winfo_reqheight() <= server_height - 40 and message_label.winfo_reqwidth() <= server_width - 40:
+            if message_label.winfo_reqheight() <= screen_height - 40 and message_label.winfo_reqwidth() <= screen_width - 40:
                 break
             font_size -= 2
 
         custom_window.after(duration * 1000, custom_window.destroy)
         custom_window.lift()
         custom_window.attributes('-topmost', True)
+        custom_window.attributes('-fullscreen', True)
         custom_window.after_idle(custom_window.attributes, '-topmost', False)
 
     def play_sound(self):
